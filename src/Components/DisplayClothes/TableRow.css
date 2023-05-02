@@ -1,0 +1,43 @@
+.body-row {
+    display: flex;
+    border-bottom: 1px solid #e0e0e0;
+    padding: 10px;
+    column-gap: 5px;
+}   
+
+.row {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 20%;
+}
+
+.buttons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 20%;
+}
+
+
+.delete {
+    background-color: #FC2947; 
+    border: none;
+    color: white;
+    text-align: center;
+    font-size: 14px;
+    font-weight: 600;
+    cursor: pointer;
+    padding: 10px;
+    width: 80px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.2);
+    transition: ease-in-out 0.2s;
+    margin-top:10px;
+}
+
+.delete:hover {
+    opacity: 0.8;
+}
+

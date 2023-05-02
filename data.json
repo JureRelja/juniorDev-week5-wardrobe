@@ -1,0 +1,112 @@
+{
+  "clothes": [
+    {
+      "typeOfClothes": "Majica",
+      "brand": "Air Jordan",
+      "size": "M",
+      "color": "#333333",
+      "id": 1
+    },
+    {
+      "typeOfClothes": "Kratka Macija",
+      "brand": "Gucci",
+      "size": "L",
+      "color": "#808080",
+      "id": 2
+    },
+    {
+      "typeOfClothes": "Duga Majica",
+      "brand": "Lacoste",
+      "size": "XS",
+      "color": "#a4dd00",
+      "id": 3
+    },
+    {
+      "typeOfClothes": "Duga Majica",
+      "brand": "Lacoste",
+      "size": "XS",
+      "color": "#73d8ff",
+      "id": 4
+    }
+  ],
+  "typeOfClothes": [
+    {
+      "type": "Hlace"
+    },
+    {
+      "type": "Majica"
+    },
+    {
+      "type": "Kratke Hlace"
+    },
+    {
+      "type": "Kratka Macija"
+    },
+    {
+      "type": "Duga Majica"
+    }
+  ],
+  "sizes": [
+    {
+      "size": "XS"
+    },
+    {
+      "size": "S"
+    },
+    {
+      "size": "M"
+    },
+    {
+      "size": "L"
+    },
+    {
+      "size": "XL"
+    },
+    {
+      "size": "XXL"
+    }
+  ],
+  "brands": [
+    {
+      "brand": "Lacoste"
+    },
+    {
+      "brand": "Nike"
+    },
+    {
+      "brand": "Levis"
+    },
+    {
+      "brand": "Air Jordan"
+    },
+    {
+      "brand": "Adidas"
+    },
+    {
+      "brand": "Gucci"
+    },
+    {
+      "brand": "Puma"
+    }
+  ],
+  "colors": [
+    {
+      "hex": "#A4DD00"
+    },
+    {
+      "hex": "#68CCCA"
+    },
+    {
+      "hex": "#73D8FF"
+    },
+    {
+      "hex": "#333333"
+    },
+    {
+      "hex": "#808080"
+    },
+    {
+      "hex": "#cccccc"
+    }
+  ]
+}

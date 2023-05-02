@@ -1,0 +1,14 @@
+.select-input {
+    display: flex;
+    flex-direction: column;
+    margin: 10px 0;
+    width: 100%;
+    border-bottom: 1px solid #300505;
+}
+
+.select-input label{
+    font-size: 1.3rem;
+    font-weight: 500;
+    margin-bottom: 5px;
+    border-bottom: 1px solid #b1b1b1;
+}
